@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Building a Chess Module in Python](https://github.com/Arg-10/Chess)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm I; The Data Science Course 2022: Complete Data Science Bootcamp ~ Udemy; Artificial Intelligence A-Z™: Learn How To Build An AI ~ Udemy.**
+- 🌱 I’m currently learning **Data Structure and Algorithm, Data Science, Artificial Intelligence.**
 
 - 🤝 I’m looking for help with [Building a Chess Module in Python](https://github.com/Arg-10/Chess)
 
@@ -17,15 +17,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arghya-maity-16a769224/details/featured/1635507607214/single-media-viewer/](https://www.linkedin.com/in/arghya-maity-16a769224/details/featured/1635507607214/single-media-viewer/)
 
-- ⚡ Fun fact **I am bulking :)**
+- ⚡ Fun fact **I'm bulking :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arghya_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arghya_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arghya maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya maity" height="30" width="40" /></a>
-<a href="https://fb.com/arghya maity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya maity" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arghya-maity-16a769224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghya maity" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arghya.maity.566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arghya maity" height="30" width="40" /></a>
 <a href="https://instagram.com/arghya.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arghya.10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the wrong direction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the wrong direction" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtHWjfGVbEEzsedH-kmTbxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the wrong direction" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
